@@ -34,7 +34,11 @@ public static void main(String[] args) {
 	Dept d = new Dept();
 	d.deptName();
 	
+
 	System.out.println("college");
 	
+
+	System.out.println("dept");
+
     }	
 }

@@ -33,5 +33,7 @@ public static void main(String[] args) {
 	h.hostelName();
 	Dept d = new Dept();
 	d.deptName();
+	
+	System.out.println("dept");
     }	
 }
